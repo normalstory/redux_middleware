@@ -8,8 +8,8 @@
 ## 프로젝트 폴더로 이동 
 #### `cd yourprojectname`
 
+## 프로젝트 설정(redux, axios, logger, pender )
+#### `yarn add redux react-redux redux-actions axios redux-logger redux-pender`
+
 ## 프로젝트 실행
 #### `yarn start`
-
-## 프로젝트 설정(리덕스)
-#### `yarn redux react-redux redux-actions`
