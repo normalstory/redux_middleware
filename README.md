@@ -11,4 +11,5 @@
 ## 프로젝트 실행
 #### `yarn start`
 
-
+## 프로젝트 설정(리덕스)
+#### `yarn redux react-redux redux-actions`
