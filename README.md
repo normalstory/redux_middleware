@@ -3,7 +3,7 @@
 
 ## 프로젝트 생성
 참고로 프로젝트 이름에 대문자는 사용할 수 없습니다. 
-#### `create-react-app yourprojectname'  
+#### `create-react-app yourprojectname` 
 
 ## 프로젝트 폴더로 이동 
 #### `cd yourprojectname`
