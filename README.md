@@ -1,13 +1,14 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-
-## 외부 데이터 연동과 미들웨어(pender) 적용을 스터디하기 위한 코드 
+# 외부 데이터 연동과 미들웨어(pender) 적용을 스터디하기 위한 코드 
 과정 : 프로젝트 생성 -> 리액트 리덕스 예제 -> 외부 데이터 연동 -> 미들웨어 적용 
+
+## 프로젝트 생성
+참고로 프로젝트 이름에 대문자는 사용할 수 없습니다. 
+#### `create-react-app yourprojectname'  
+
+## 프로젝트 폴더로 이동 
+#### `cd yourprojectname`
+
+## 프로젝트 실행
+#### `yarn start`
+
+
